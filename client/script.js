@@ -92,8 +92,8 @@ const handleSubmit = async (e) => {
 
   //**********************connecting client and server****************************
   //fetch data from server -> bot's response
- const response = await fetch('https://chat-bot-backend.onrender.com', {
-  //http://localhost:5000 is the url of the server
+  const response = await fetch("https://chat-bot-backend.onrender.com", {
+    
     method: "POST",
     headers: {
       "Content-Type": "application/json",
