@@ -92,7 +92,7 @@ const handleSubmit = async (e) => {
 
   //**********************connecting client and server****************************
   //fetch data from server -> bot's response
-  const response = await fetch('https://chat-bot-backend.onrender.com', {
+  const response = await fetch('https://chatbot-backend-ycbc.onrender.com', {
 
     method: "POST",
     headers: {
