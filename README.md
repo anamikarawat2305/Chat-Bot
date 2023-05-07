@@ -1,4 +1,5 @@
-# Setup
+## Setup
+
 - npm create vite@latest client --template vanilla
 - framework- vanilla, variant- javascript
 - cd .\client\
