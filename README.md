@@ -19,3 +19,4 @@
 
 > link for read- https://platform.openai.com/playground/p/default-openai-api?model=text-davinci-003
 
+![image](https://user-images.githubusercontent.com/95397876/221247712-694097ee-8809-4253-8432-8f7a80d3b840.png)
